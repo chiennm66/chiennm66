@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiennm66&label=Profile%20views&color=0e75b6&style=flat" alt="chiennm66" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://ncbrowser.com/](https://ncbrowser.com/)
-
-- 📫 How to reach me **chien97666@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/minh.chien.354237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/minh.chien.354237/" height="30" width="40" /></a>
