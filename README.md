@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm chiennm66</h1>
 <h3 align="center">A passionate fullstack & iOS app developer from Vietnam</h3>
-<img src="https://static.vecteezy.com/system/resources/previews/053/799/037/non_2x/programmer-line-filled-icon-vector.jpg" alt="Coding" width="200">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiennm66&label=Profile%20views&color=0e75b6&style=flat" alt="chiennm66" /> </p>
 
